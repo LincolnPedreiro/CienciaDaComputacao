@@ -1,6 +1,6 @@
 # CienciaDaComputacao - [UNIFEG](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?codigocurso=101)
 
-Duração do Curso:_8 semestres._
+Duração do Curso: _8 semestres._
 
 Carga Horária: _3220 h/a_
 
